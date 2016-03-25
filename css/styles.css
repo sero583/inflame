@@ -5,3 +5,7 @@
 a {
   text-decoration: none;
 }
+
+#twitter_link:hover {
+  text-shadow: 1px 1px #03FFFFFC;
+}
