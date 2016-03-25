@@ -1,11 +1,3 @@
-* {
-  font-family: Comic Sans;
-}
-
-a {
-  text-decoration: none;
-}
-
-#twitter_link:hover {
-  text-shadow: 3px 3px 5px #03FFFFFC;
+body {
+  background-color: Gray;
 }
