@@ -1,3 +1,7 @@
 * {
-  font-family: Comic Sans
+  font-family: Comic Sans;
+}
+
+a {
+  text-decoration: none;
 }
